@@ -30,7 +30,7 @@ pip install pandas numpy matplotlib seaborn
 
 1️⃣ Clone this repository:
 ```
-git clone <repository-url>
+git clone https://github.com/Shashankbhandari11/smartphone-price-analysis/tree/EDA
 ```
 2️⃣ Navigate to the project directory:
 ```
