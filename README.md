@@ -23,31 +23,30 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a smartpho
 
 To run this project, install the required dependencies using:
 
-```
- bash
+```bash
 pip install pandas numpy matplotlib seaborn
 ```
 🚀 Usage
 
 1️⃣ Clone this repository:
-
+```
 git clone <repository-url>
-
+```
 2️⃣ Navigate to the project directory:
-
+```
 cd smartphone-price-eda-project
-
+```
 3️⃣ Switch to the EDA branch:
-
+```
 git checkout eda-analysis
-
+```
 4️⃣ Open the Jupyter Notebook:
-
-jupyter notebook Restored_EDA.ipynb
-
+```
+jupyter notebook EDA.ipynb
+```
 5️⃣ Run the cells step by step to perform EDA on smartphone price data.
 
-📊 Visualizations
+## 📊 Visualizations
 
 This project includes multiple visualizations to understand smartphone price trends better:
 
@@ -61,19 +60,18 @@ This project includes multiple visualizations to understand smartphone price tre
 
 📌 Price Trends Over Time
 
-📈 Results & Insights
+## 📈 Results & Insights
 
 After performing EDA, key insights about the smartphone price dataset are summarized in the notebook, highlighting trends, patterns, and important findings.
 
-🤝 Contributing
+### 🤝 Contributing
 
 Contributions are welcome! Feel free to submit issues or pull requests to enhance the analysis.
 
-📜 License
+### 📜 License
 
 This project is open-source and available under the MIT License.
 
-✍️ Author
-
-[Your Name]
+### ✍️ Author
+#### Shashank Bhandari
 
