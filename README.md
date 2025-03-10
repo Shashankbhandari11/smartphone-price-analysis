@@ -1,10 +1,10 @@
-📱 Smartphone Price Analysis - Exploratory Data Analysis (EDA) Project
+#  Smartphone Price Analysis - Exploratory Data Analysis (EDA) Project
 
-📌 Overview
+## 📌 Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) on a smartphone price dataset. The goal is to analyze smartphone prices, uncover patterns, detect anomalies, and extract valuable insights using various statistical and visualization techniques.
 
-✨ Features
+## ✨ Features
 
 🔍 Data Cleaning: Handling missing values, duplicate values, and outliers.
 
