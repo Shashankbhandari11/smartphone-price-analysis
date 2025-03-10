@@ -19,12 +19,14 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a smartpho
 📍 The dataset used for this project contains smartphone price-related information and is stored in the data/ directory.
 ✅ Ensure you have the required dataset file (data/smartphone_price_data.csv) before running the notebook.
 
-🛠 Installation
+## 🛠 Installation
 
 To run this project, install the required dependencies using:
 
+```
+ bash
 pip install pandas numpy matplotlib seaborn
-
+```
 🚀 Usage
 
 1️⃣ Clone this repository:
