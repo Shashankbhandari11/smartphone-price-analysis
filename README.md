@@ -5,17 +5,17 @@ This project aims to predict smartphone prices using a machine learning model ba
 ## Dataset
 The dataset (smartphones_data.csv) contains information about smartphones, including:
 ### Features:
-brand_name: Smartphone brand (e.g., Samsung, Apple).
-Name: Model name (dropped during preprocessing).
-Price: Target variable (price in USD).
-RAM: RAM capacity (GB).
-storage: Internal storage (GB).
-Battery_cap: Battery capacity (mAh).
-num_core: Number of CPU cores.
-primary_rear_camera: Primary rear camera resolution (MP).
-Num_Rear_Cameras: Number of rear cameras.
-primary_front_camera: Primary front camera resolution (MP).
-num_front_camera: Number of front cameras.
+- brand_name: Smartphone brand (e.g., Samsung, Apple).
+- Name: Model name 
+- Price: Target variable (price in USD).
+- RAM: RAM capacity (GB).
+- storage: Internal storage (GB).
+- Battery_cap: Battery capacity (mAh).
+- num_core: Number of CPU cores.
+- primary_rear_camera: Primary rear camera resolution (MP).
+- Num_Rear_Cameras: Number of rear cameras.
+- primary_front_camera: Primary front camera resolution (MP).
+- num_front_camera: Number of front cameras.
 display_size(inch): Screen size (inches).
 refresh_rate(hz): Display refresh rate (Hz).
 OS: Operating system (e.g., Android, iOS).
