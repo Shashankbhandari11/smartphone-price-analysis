@@ -16,26 +16,22 @@ The dataset (smartphones_data.csv) contains information about smartphones, inclu
 - Num_Rear_Cameras: Number of rear cameras.
 - primary_front_camera: Primary front camera resolution (MP).
 - num_front_camera: Number of front cameras.
-display_size(inch): Screen size (inches).
-refresh_rate(hz): Display refresh rate (Hz).
-OS: Operating system (e.g., Android, iOS).
-processor_brand: Processor manufacturer (e.g., Qualcomm, MediaTek).
-display_types: Display type (e.g., AMOLED, LCD).
-Binary features: has_fast_charging, has_fingerprints, has_nfc, has_5g (Yes/No).
+- display_size(inch): Screen size (inches).
+- refresh_rate(hz): Display refresh rate (Hz).
+- OS: Operating system (e.g., Android, iOS).
+- processor_brand: Processor manufacturer (e.g., Qualcomm, MediaTek).
 
-
-Size: Approximately 3260 records (after removing duplicates).
-Source: Not specified (assumed to be a custom or publicly available dataset).
-
-Project Structure
+## Project Structure
 
 smartphones_data.csv: Input dataset.
 smartphone_price_prediction.ipynb: Jupyter notebook containing the complete pipeline (EDA, preprocessing, modeling, evaluation).
 README.md: This file.
 
-Requirements
+## Requirements
 To run the project, install the following Python libraries:
+```bash
 pip install pandas numpy matplotlib seaborn scipy scikit-learn xgboost
+```
 
 Setup
 
