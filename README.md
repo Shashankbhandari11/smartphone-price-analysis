@@ -1,4 +1,4 @@
-## Smartphone Price Prediction using XGBoost
+# Smartphone Price Prediction using XGBoost
 ## Overview
 This project aims to predict smartphone prices using a machine learning model based on various features such as RAM, storage, battery capacity, camera specifications, and more. The model is built using the XGBoost algorithm, with comprehensive data preprocessing, feature engineering, and evaluation to ensure accurate predictions. The project includes exploratory data analysis (EDA), feature transformations, outlier handling, and model performance assessment.
 
