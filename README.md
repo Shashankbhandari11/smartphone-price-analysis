@@ -53,7 +53,7 @@ cd smartphone-price-analysis
 ## Run the Notebook:
 Open and run all cells in bash```
 smartphone_price_prediction.ipynb
-```
+
 ---
 ##  Dataset
 Data loading and cleaning
