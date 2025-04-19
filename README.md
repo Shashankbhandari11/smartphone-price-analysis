@@ -48,3 +48,40 @@ pip install pandas numpy matplotlib seaborn scipy scikit-learn xgboost
 git clone https://github.com/Shashankbhandari11/smartphone-price-analysis.git
 cd smartphone-price-analysis
 ```
+
+---
+## Run the Notebook:
+Open and run all cells in bash```
+smartphone_price_prediction.ipynb
+```
+---
+##  Dataset
+Data loading and cleaning
+
+EDA (visualizations: histograms, boxplots, correlation heatmap)
+
+Preprocessing (missing value handling, transformations, encoding)
+
+Feature engineering (e.g., camera_quality, RAM_category, battery_category)
+
+XGBoost model training and evaluation
+
+Visualizations (feature importance, actual vs predicted prices)
+
+## Key Outputs
+Model performance metrics:
+
+MAE (Mean Absolute Error)
+
+RMSE (Root Mean Square Error)
+
+R² Score
+
+
+
+## Contributing
+Feel free to fork the repository, suggest improvements, or add new features.
+Submit pull requests or open issues for bugs or enhancements.
+
+## License
+This project is licensed under the MIT License.
