@@ -30,6 +30,7 @@ The dataset (smartphones_data.csv) contains information about smartphones, inclu
 smartphones_data.csv: Input dataset.
 smartphone_price_prediction.ipynb: Jupyter notebook containing the complete pipeline (EDA, preprocessing, modeling, evaluation).
 README.md: This file.
+
 ---
 ## Requirements
 To run the project, install the following Python libraries:
@@ -60,10 +61,12 @@ cd smartphone-price-prediction
 ## Key Outputs:
 - Model performance metrics (MAE, RMSE, R²) for training and testing sets.
 - Cross-validation RMSE.
-
+---
 ## Contributing
 Feel free to fork the repository, suggest improvements, or add new features. 
 Submit pull requests or open issues for bugs or enhancements.
+
+---
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
