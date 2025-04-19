@@ -42,6 +42,8 @@ Install required Python libraries:
 ```bash
 pip install pandas numpy matplotlib seaborn scipy scikit-learn xgboost
 ```
+
+## Clone the Repository:
 ```bash
 git clone https://github.com/Shashankbhandari11/smartphone-price-analysis.git
 cd smartphone-price-analysis
