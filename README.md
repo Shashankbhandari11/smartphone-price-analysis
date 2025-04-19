@@ -1,5 +1,5 @@
 # Smartphone Price Prediction using XGBoost
----
+
 ## Overview
 This project aims to predict smartphone prices using a machine learning model based on various features such as RAM, storage, battery capacity, camera specifications, and more. The model is built using the XGBoost algorithm, with comprehensive data preprocessing, feature engineering, and evaluation to ensure accurate predictions. The project includes exploratory data analysis (EDA), feature transformations, outlier handling, and model performance assessment.
 
@@ -24,12 +24,13 @@ The dataset (smartphones_data.csv) contains information about smartphones, inclu
 - OS: Operating system (e.g., Android, iOS).
 - processor_brand: Processor manufacturer (e.g., Qualcomm, MediaTek).
 
+---
 ## Project Structure
 
 smartphones_data.csv: Input dataset.
 smartphone_price_prediction.ipynb: Jupyter notebook containing the complete pipeline (EDA, preprocessing, modeling, evaluation).
 README.md: This file.
-
+---
 ## Requirements
 To run the project, install the following Python libraries:
 ```bash
