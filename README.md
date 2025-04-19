@@ -69,13 +69,13 @@ XGBoost model training and evaluation
 Visualizations (feature importance, actual vs predicted prices)
 
 ## Key Outputs
-Model performance metrics:
+- Model performance metrics:
 
-MAE (Mean Absolute Error)
+- MAE (Mean Absolute Error)
 
-RMSE (Root Mean Square Error)
+- RMSE (Root Mean Square Error)
 
-R² Score
+- R² Score
 
 
 
